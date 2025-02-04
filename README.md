@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kartikeyhebbar/kartikeyhebbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+👋 Hi, I'm **Kartikey Hebbar**!  
+💻 **Software Engineer** | 🎓 **Grad Student at Northeastern University**  
+📍 Passionate about **technology, innovation and entrepreneurship**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a `Full-Stack Developer` with expertise in `Java`, `JavaScript`, `Python` and `React`  
+
+---
+
+## 🤖 Skills
+
+- Programming Languages: `Java`, `Javascript`, `Python`, `Typescript`, `SQL`  
+- Libraries & Frameworks: `Node.js`, `React.js`, `Express.js`, `Spring Boot`, `Spring Framework`, `Django Framework`, `Flask`, `Bootstrap`, `Sass`, `Redux`, `Next.js`, `Jest`, `jQuery`
+- Tools & Technologies: `REST API`, `MongoDB`, `Git Version Control`, `GitHub`, `Maven`, `AWS`, `Apache Cassandra`, `Postman`, `HTML`, `CSS`, `JSX`, `Agile Framework`, `Jira`, `Jenkins`, `Docker`
+
+--- 
+
+## 📬 Connect with Me
+
+📧 Email: `vijayakumarhebbar.k@northeastern.edu`  
+💼 LinkedIn: [Connect here](https://www.linkedin.com/in/kartikey-v-hebbar/)   
+🌐 Portfolio: [Visit here](https://kartikeyhebbar.vercel.app/)  
